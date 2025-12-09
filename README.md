@@ -1,5 +1,3 @@
-### Olá, eu sou o Lucas
-
 Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.
 
 Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamento analítico e proatividade na criação de soluções inteligentes de dados ou desenvolvimento de sistemas.
