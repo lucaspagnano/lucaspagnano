@@ -21,7 +21,7 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 ---
 
 ### Idiomas
-Portguês<br>
+Português<br>
 Inglês
 
 ---
