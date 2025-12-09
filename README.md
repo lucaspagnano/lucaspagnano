@@ -23,7 +23,13 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 
 ---
 
-### Contacto&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Idiomas
+###Idiomas
+Portguês<br>
+Inglês
 
-**Email:** Lucas.pagnano@gmail.com &emsp;&emsp;Portguês<br>
-**Currículo:** [Ver CV Completo](./CV.pdf) &emsp;&emsp;&emsp;&emsp;&emsp;Inglês
+---
+
+### Contacto
+
+**Email:** Lucas.pagnano@gmail.com
+**Currículo:** [Ver CV Completo](./CV.pdf)
