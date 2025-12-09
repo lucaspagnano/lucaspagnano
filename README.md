@@ -8,18 +8,18 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 
 ### 🛠️ Competências Técnicas
 
-**Linguagens:** Python, C++, Java, SQL (Oracle/PLSQL), JavaScript, C 
-**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas), Power BI
-**Sistemas & Ferramentas:** Linux (Bash), Git, HTML/CSS 
+**Linguagens:** Python, C++, Java, SQL (Oracle/PLSQL), JavaScript, C <br>
+**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas), Power BI<br>
+**Sistemas & Ferramentas:** Linux (Bash), Git, HTML/CSS <br>
 **Idiomas:** Português (Nativo), Inglês (Avançado - C2) 
 
 ---
 
 ### 🔭 Projetos de Destaque
 
-**♻️ Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.
-**🚚 Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.
-**🌐 Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.
+**♻️ Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.<br>
+**🚚 Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.<br>
+**🌐 Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.<br>
 
 ---
 
