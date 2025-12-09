@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas!
+### Olá, eu sou o Lucas
 
 Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.
 
@@ -17,13 +17,13 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 
 ### Projetos de Destaque
 
-** Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.<br>
-** Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.<br>
-** Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.<br>
+**Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.<br>
+**Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.<br>
+**Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.<br>
 
 ---
 
-###Idiomas
+### Idiomas
 Portguês<br>
 Inglês
 
