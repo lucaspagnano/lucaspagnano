@@ -1,16 +1,28 @@
-## Hi there 👋
+### Olá, eu sou o Lucas! 👋
 
-<!--
-**lucaspagnano/lucaspagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.
 
-Here are some ideas to get you started:
+Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamento analítico e proatividade na criação de soluções inteligentes de dados ou desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Competências Técnicas
+
+**Linguagens:** Python, C++, Java, SQL (Oracle/PLSQL), JavaScript, C 
+**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas), Power BI
+**Sistemas & Ferramentas:** Linux (Bash), Git, HTML/CSS 
+**Idiomas:** Português (Nativo), Inglês (Avançado - C2) 
+
+---
+
+### 🔭 Projetos de Destaque
+
+**♻️ Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.
+**🚚 Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.
+**🌐 Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.
+
+---
+
+### 📫 Contacto
+
+📧 **Email:** Lucas.pagnano@gmail.com
