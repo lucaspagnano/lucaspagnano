@@ -6,9 +6,9 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 
 ### Competências Técnicas
 
-**Linguagens:** Python, C++, Java, SQL (Oracle/PLSQL), JavaScript, C <br>
+**Linguagens:** Python, C++, SQL (Oracle/PLSQL), JavaScript, C <br>
 **Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas), Power BI<br>
-**Sistemas & Ferramentas:** Linux (Bash), Git, HTML/CSS <br>
+**Sistemas & Ferramentas:** Linux, HTML/CSS <br>
 
 ---
 
