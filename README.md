@@ -6,9 +6,11 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 
 ### Competências Técnicas
 
-**Linguagens:** Python, C, C#, C++, SQL (Oracle/PLSQL), JavaScript, React.js, Java, MATLAB <br>
-**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas, Seaborn), Deep Learning, Power BI<br>
-**Sistemas & Ferramentas:** Linux, HTML/CSS <br>
+**Linguagens:** Python, C, C#, C++, SQL (Oracle/PLSQL), Java, MATLAB <br>
+**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas, Seaborn), Deep Learning <br>
+**Data Viz & BI:** Power BI <br>
+**Desenvolvimento WEB:** React.js, Javascript, HTML, CSS <br>
+**Sistemas:** Linux <br>
 
 ---
 
