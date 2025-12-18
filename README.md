@@ -18,7 +18,7 @@ Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamen
 **Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.<br>
 **Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.<br>
 **Sistema de taxis:** Programação C em UNIX - Named pipes, Pipes anónimos, Threads, Fork/Exec<br>
-**Data warehouse Portuário:** Processo ETL (recolha de dados MYSQL e CSV), MySql, PowerBI<br>
+**Data warehouse Portuário:** Processo ETL Python (recolha de dados MYSQL e CSV), SQLServer, PowerBI<br>
 
 ---
 
