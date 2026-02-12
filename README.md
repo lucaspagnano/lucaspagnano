@@ -34,4 +34,4 @@ Inglês
 ### Contacto
 
 **Email:** Lucas.pagnano@gmail.com <br>
-**Currículo:** [Ver CV](./CV.pdf) / [English](./CV_EN.pdf)
+**Currículo:** [Português](./CV.pdf) / [English](./CV_EN.pdf)
