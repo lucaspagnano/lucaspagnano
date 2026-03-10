@@ -1,6 +1,6 @@
 Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.
 
-Atualmente, a estagiar na **Siemens** em **Machine Learning for Smart Infrastructure Service Software**.
+Atualmente, a estagiar na *Siemens* em *Machine Learning for Smart Infrastructure Service Software*.
 ---
 
 ### Competências Técnicas
