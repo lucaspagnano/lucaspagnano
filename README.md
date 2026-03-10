@@ -1,13 +1,12 @@
 Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.
 
-Atualmente, procuro um **estágio curricular** onde possa aplicar o meu pensamento analítico e proatividade na criação de soluções inteligentes de dados ou desenvolvimento de sistemas.
-
+Atualmente, a estagiar na **Siemens** em **Machine Learning for Smart Infrastructure Service Software**.
 ---
 
 ### Competências Técnicas
 
-**Linguagens:** Python, C, C#, C++, SQL (Oracle/PLSQL), Java, MATLAB, Assembly <br>
-**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas, Seaborn), Deep Learning <br>
+**Linguagens:** Python, C, C#, C++, SQL (Oracle/PLSQL), Java, MATLAB, Assembly<br>
+**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas, Seaborn), Deep Learning, Computer Vision, Azure<br>
 **Data Viz & BI:** Power BI <br>
 **Desenvolvimento Web:** React.js, Javascript, HTML, CSS <br>
 **Sistemas:** Linux <br>
