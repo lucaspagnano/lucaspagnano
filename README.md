@@ -26,4 +26,4 @@ English
 ---
 ### Contact
 **Email:** Lucas.pagnano@gmail.com<br>
-**Resume:** [](./CV_EN.pdf)
+**Resume:** [.](./CV_EN.pdf)
