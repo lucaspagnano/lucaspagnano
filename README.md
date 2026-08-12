@@ -1,5 +1,5 @@
-I am a Computer Engineering graduate from **ISEC** (Polytechnic Institute of Coimbra), specializing in Information Systems (final average: 14/20).<br>
-I completed my curricular internship at **Siemens** in **Machine Learning for Smart Infrastructure Service Software**, and I will be starting as an **AI Engineer Trainee** on the same team (Smart Infrastructure) from September 2026.
+I am a Computer Engineering graduate from **ISEC** (Polytechnic Institute of Coimbra), specializing in Information Systems.<br>
+I completed my curricular internship at **Siemens** in **Machine Learning for Smart Infrastructure Service Software**, and I will be acting as an **AI Engineer Trainee** on the same team (Smart Infrastructure).
 
 ---
 ### Technical Skills
