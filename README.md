@@ -1,36 +1,29 @@
-Sou finalista da Licenciatura em **Engenharia Informática** no **ISEC** (Coimbra), com especialização em Sistemas de Informação.<br>
-Atualmente a estagiar na **Siemens** em **Machine Learning for Smart Infrastructure Service Software**.
+I am a Computer Engineering graduate from **ISEC** (Polytechnic Institute of Coimbra), specializing in Information Systems (final average: 14/20).<br>
+I completed my curricular internship at **Siemens** in **Machine Learning for Smart Infrastructure Service Software**, and I will be starting as an **AI Engineer Trainee** on the same team (Smart Infrastructure) from September 2026.
 
 ---
-
-### Competências Técnicas
-
-**Linguagens:** Python, C, C#, C++, SQL (Oracle/PLSQL), Java, MATLAB, Assembly<br>
-**Data Science & AI:** Machine Learning (Scikit-learn, NumPy, Pandas, Seaborn), Deep Learning, Computer Vision, Azure<br>
-**Data Viz & BI:** Power BI <br>
-**Desenvolvimento Web:** React.js, Javascript, HTML, CSS <br>
-**Sistemas:** Linux <br>
+### Technical Skills
+**Languages:** Python, C, C#, C++, SQL (Oracle/PLSQL), Java, MATLAB, Assembly<br>
+**Data Science & AI:** Machine Learning (Pandas, Scikit-learn, NumPy, Seaborn, OpenCV), Deep Learning, Computer Vision<br>
+**Data Viz & BI:** Power BI<br>
+**Web Development:** React.js, JavaScript, HTML, CSS, Blazor<br>
+**Systems & Tools:** Linux, GitHub, VS Code, Microsoft Azure, DevOps/MLOps
 
 ---
-
-### Projetos de Destaque
-
-**Modelo de ML para Reciclagem:** Algoritmos preditivos em Python para classificar resíduos recicláveis.<br>
-**Gestão Logística VendingPLUS:** Arquitetura de servidor e lógica de negócio usando Oracle SQL e PL/SQL.<br>
-**Integração de Dados Web:** Solução de ETL em Java para extração e unificação de dados.<br>
-**Sistema de taxis:** Programação C em UNIX - Named pipes, Pipes anónimos, Threads, Fork/Exec.<br>
-**Data warehouse Portuário:** Processo ETL Python (recolha de dados MYSQL e CSV), SQLServer, PowerBI.<br>
-**Programação Orientada a Objetos em C++:** Polimorfismo, Gestão de memória manual, Estruturas de dados dinâmicas e Persistência de dados.<br>
+### Featured Projects
+**ML Model for Recycling:** Predictive algorithms in Python to classify recyclable waste.<br>
+**VendingPLUS Logistics Management:** Server architecture and business logic using Oracle SQL and PL/SQL.<br>
+**Web Data Integration:** ETL solution in Java for data extraction and unification.<br>
+**Taxi System:** C programming on UNIX - Named pipes, Anonymous pipes, Threads, Fork/Exec.<br>
+**Port Data Warehouse:** Python ETL process (MySQL and CSV data collection), SQL Server, Power BI.<br>
+**Object-Oriented Programming in C++:** Polymorphism, manual memory management, dynamic data structures and data persistence.
 
 ---
-
-### Idiomas
-Português<br>
-Inglês
+### Languages
+Portuguese<br>
+English
 
 ---
-
-### Contacto
-
-**Email:** Lucas.pagnano@gmail.com <br>
-**Currículo:** [Português](./CV.pdf) / [English](./CV_EN.pdf)
+### Contact
+**Email:** Lucas.pagnano@gmail.com<br>
+**Resume:** [](./CV_EN.pdf)
