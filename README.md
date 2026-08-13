@@ -25,5 +25,5 @@ English
 
 ---
 ### Contact
-**Email:** Lucas.pagnano@gmail.com<br>
+**Email:** Lucas.golobovante@gmail.com<br>
 **Resume:** [English](./CV_EN.pdf)
